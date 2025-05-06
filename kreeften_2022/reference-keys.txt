@@ -1,0 +1,14 @@
+fig:bemonstering-fotos
+inleiding
+onderzoeksopzet
+bemonstering
+onderzoekslocaties
+resultaten
+totaal-vangsten
+vangsten-per-soort
+ontwikkelingen
+dna-onderzoek
+discussie
+conclusie
+bemonsteringsprotocol
+data_per_locatie
