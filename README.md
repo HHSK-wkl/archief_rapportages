@@ -12,4 +12,17 @@ Archief voor rapportages
 
 ## Kreeftenrapportages
 
+- [Kreeftenrapportage 2023](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2024)
+- [Kreeftenrapportage 2023](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2023)
+- [Kreeftenrapportage 2023](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2022)
+- [Kreeftenrapportage 2023](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2021)
+- [Kreeftenrapportage 2023](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2020)
+
+
 ## Diverse
+
+- [2020 Screening gewasbeschermingsmiddelen](https://hhsk-wkl.github.io/archief_rapportages/screening_gbm/rapportage_screening_gbm.html)
+- [2024 Snapshot Rapportage gewasbeschermingsmiddelen](https://hhsk-wkl.github.io/archief_rapportages/GBM_rapportage)
+- [2024 Snapshot Kaart meetpunten](https://hhsk-wkl.github.io/archief_rapportages/kaart_meetpunten/kaart_meetpunten.html)
+- [2024 Snapshot Blauwalg Krimpenerwaard](https://hhsk-wkl.github.io/archief_rapportages/blauwalg_krimpenerwaard/blauwalg_krimpenerwaard.html)
+- [2022 Snapshot Kaart meetpunten](https://hhsk-wkl.github.io/archief_rapportages/bleiswijkse_zoom) 
