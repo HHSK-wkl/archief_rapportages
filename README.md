@@ -12,11 +12,11 @@ Archief voor rapportages
 
 ## Kreeftenrapportages
 
-- [Kreeftenrapportage 2023](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2024)
+- [Kreeftenrapportage 2024](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2024)
 - [Kreeftenrapportage 2023](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2023)
-- [Kreeftenrapportage 2023](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2022)
-- [Kreeftenrapportage 2023](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2021)
-- [Kreeftenrapportage 2023](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2020)
+- [Kreeftenrapportage 2022](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2022)
+- [Kreeftenrapportage 2021](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2021)
+- [Kreeftenrapportage 2020](https://hhsk-wkl.github.io/archief_rapportages/kreeften_2020)
 
 
 ## Diverse
