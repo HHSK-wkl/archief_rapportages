@@ -22,7 +22,8 @@ Archief voor rapportages
 ## Diverse
 
 - [2020 Screening gewasbeschermingsmiddelen](https://hhsk-wkl.github.io/archief_rapportages/screening_gbm/rapportage_screening_gbm.html)
+- [2022 Bleiswijkse Zoom](https://hhsk-wkl.github.io/archief_rapportages/bleiswijkse_zoom)
 - [2024 Snapshot Rapportage gewasbeschermingsmiddelen](https://hhsk-wkl.github.io/archief_rapportages/GBM_rapportage)
 - [2024 Snapshot Kaart meetpunten](https://hhsk-wkl.github.io/archief_rapportages/kaart_meetpunten/kaart_meetpunten.html)
 - [2024 Snapshot Blauwalg Krimpenerwaard](https://hhsk-wkl.github.io/archief_rapportages/blauwalg_krimpenerwaard/blauwalg_krimpenerwaard.html)
-- [2022 Snapshot Kaart meetpunten](https://hhsk-wkl.github.io/archief_rapportages/bleiswijkse_zoom) 
+
