@@ -3,6 +3,7 @@ Archief voor rapportages
 
 ## Waterkwaliteitsrapportages
 
+- [Waterkwaliteitsrapportage 2025](https://hhsk-wkl.github.io/archief_rapportages/waterkwaliteitsrapportage_2025)
 - [Waterkwaliteitsrapportage 2024](https://hhsk-wkl.github.io/archief_rapportages/waterkwaliteitsrapportage_2024)
 - [Waterkwaliteitsrapportage 2023](https://hhsk-wkl.github.io/archief_rapportages/waterkwaliteitsrapportage_2023)
 - [Waterkwaliteitsrapportage 2022](https://hhsk-wkl.github.io/archief_rapportages/waterkwaliteitsrapportage_2022)
